@@ -1,0 +1,765 @@
+2026-02-24 08:27:42,366-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-24 08:27:42,440-INFO-This function inserts data to expenses table for the date : 2026-02-15
+2026-02-24 08:27:42,451-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-02-24 08:31:57,111-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-24 08:32:38,183-INFO-This function inserts data to expenses table for the date : 2024-08-02
+2026-02-24 08:33:39,261-INFO-This function inserts data to expenses table for the date : 2024-08-02
+2026-02-24 08:33:39,283-INFO-This function inserts data to expenses table for the date : 2024-08-02
+2026-02-24 08:33:46,819-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-24 08:36:38,472-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-24 08:37:07,416-INFO-This function deletes data from expenses table for the date : 2024-08-02
+2026-02-24 08:37:07,432-INFO-This function inserts data to expenses table for the date : 2024-08-02
+2026-02-24 08:37:07,441-INFO-This function inserts data to expenses table for the date : 2024-08-02
+2026-02-26 08:04:18,099-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 08:04:22,597-INFO-This function fetch expenses for the date : 2026-02-27
+2026-02-26 08:04:51,547-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 08:08:01,238-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 08:08:04,254-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 08:08:26,637-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 08:08:52,446-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 08:09:05,414-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 08:15:50,463-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 08:15:57,892-INFO-This function fetch expenses for the date : 2024-08-03
+2026-02-26 08:16:00,859-INFO-This function fetch expenses for the date : 2024-08-04
+2026-02-26 08:16:04,561-INFO-This function fetch expenses for the date : 2024-08-06
+2026-02-26 08:16:08,229-INFO-This function fetch expenses for the date : 2024-08-08
+2026-02-26 08:16:10,676-INFO-This function fetch expenses for the date : 2024-08-06
+2026-02-26 08:16:19,122-INFO-This function fetch expenses for the date : 2024-07-31
+2026-02-26 08:16:21,864-INFO-This function fetch expenses for the date : 2024-07-23
+2026-02-26 08:16:23,936-INFO-This function fetch expenses for the date : 2024-07-30
+2026-02-26 08:16:27,705-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 08:21:31,528-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:19:58,780-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:22:33,985-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:23:05,287-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:25:15,256-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:27:20,854-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:33:41,292-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:37:07,327-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:40:21,725-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:42:20,640-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:42:47,982-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:44:35,007-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:47:18,227-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:47:54,979-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:48:25,351-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:48:53,632-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:49:06,757-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 09:49:56,551-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:25:28,150-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:28:33,417-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:29:00,070-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:32:15,488-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:32:24,608-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:32:32,064-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:32:44,070-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:32:54,291-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:33:41,607-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 10:33:52,474-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:33:54,901-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:35:16,769-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:35:21,471-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:35:24,147-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:38:19,198-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:40:16,446-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:40:25,372-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:40:35,184-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:41:00,246-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:41:05,480-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:41:55,444-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:42:07,078-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:42:19,118-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:48:12,052-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:48:19,729-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:48:24,191-INFO-This function fetch expenses for the date : 2024-08-03
+2026-02-26 10:48:28,229-INFO-This function fetch expenses for the date : 2024-08-04
+2026-02-26 10:48:36,264-INFO-This function fetch expenses for the date : 2024-08-05
+2026-02-26 10:48:39,606-INFO-This function fetch expenses for the date : 2024-08-06
+2026-02-26 10:48:42,652-INFO-This function fetch expenses for the date : 2024-08-07
+2026-02-26 10:48:44,925-INFO-This function fetch expenses for the date : 2024-08-17
+2026-02-26 10:48:50,571-INFO-This function fetch expenses for the date : 2024-08-03
+2026-02-26 10:49:29,870-INFO-This function fetch expenses for the date : 2024-08-03
+2026-02-26 10:49:33,893-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:49:42,877-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:49:48,256-INFO-This function fetch expenses for the date : 2024-08-04
+2026-02-26 10:49:58,545-INFO-This function fetch expenses for the date : 2024-08-04
+2026-02-26 10:50:04,158-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:52:32,575-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:52:43,829-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:53:17,206-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:53:22,456-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:55:14,435-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:55:30,582-INFO-This function fetch expenses for the date : 2024-08-03
+2026-02-26 10:55:39,131-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:55:45,312-INFO-This function fetch expenses for the date : 2024-08-05
+2026-02-26 10:55:51,221-INFO-This function fetch expenses for the date : 2024-08-06
+2026-02-26 10:57:27,748-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:57:37,823-INFO-This function fetch expenses for the date : 2024-08-03
+2026-02-26 10:57:51,337-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:57:56,550-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:58:24,689-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:58:36,034-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 10:58:39,576-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 10:58:44,242-INFO-This function fetch expenses for the date : 2024-08-03
+2026-02-26 10:58:50,166-INFO-This function fetch expenses for the date : 2024-08-04
+2026-02-26 10:58:53,365-INFO-This function fetch expenses for the date : 2024-08-05
+2026-02-26 10:59:05,066-INFO-This function fetch expenses for the date : 2024-08-04
+2026-02-26 10:59:28,315-INFO-This function fetch expenses for the date : 2024-08-04
+2026-02-26 10:59:35,477-INFO-This function fetch expenses for the date : 2024-08-04
+2026-02-26 10:59:54,071-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 11:00:12,379-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 11:00:16,634-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 11:00:19,564-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 11:00:33,764-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 11:00:37,604-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 11:00:39,788-INFO-This function fetch expenses for the date : 2024-08-03
+2026-02-26 11:00:44,523-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 11:00:53,629-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 11:01:01,986-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 11:34:16,920-INFO-This function fetch expenses for the date : 2024-08-07
+2026-02-26 11:34:43,121-INFO-This function fetch expenses for the date : 2024-08-07
+2026-02-26 11:34:45,303-INFO-This function fetch expenses for the date : 2024-08-07
+2026-02-26 11:41:54,528-INFO-This function fetch expenses for the date : 2024-08-07
+2026-02-26 11:41:54,692-INFO-This function deletes data from expenses table for the date : 2024-08-07
+2026-02-26 11:44:28,629-INFO-This function fetch expenses for the date : 2024-08-07
+2026-02-26 11:44:28,682-INFO-This function deletes data from expenses table for the date : 2024-08-07
+2026-02-26 11:44:33,983-INFO-This function fetch expenses for the date : 2024-08-07
+2026-02-26 11:44:34,028-INFO-This function deletes data from expenses table for the date : 2024-08-07
+2026-02-26 11:44:57,464-INFO-This function fetch expenses for the date : 2024-08-07
+2026-02-26 11:44:59,822-INFO-This function fetch expenses for the date : 2024-08-07
+2026-02-26 11:44:59,873-INFO-This function deletes data from expenses table for the date : 2024-08-07
+2026-02-26 11:47:30,478-INFO-This function fetch expenses for the date : 2024-08-08
+2026-02-26 11:47:36,673-INFO-This function fetch expenses for the date : 2024-08-08
+2026-02-26 11:47:42,295-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 11:48:09,997-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 11:48:10,053-INFO-This function deletes data from expenses table for the date : 2026-02-26
+2026-02-26 11:52:03,386-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 11:52:25,279-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 11:52:25,351-INFO-This function deletes data from expenses table for the date : 2026-02-26
+2026-02-26 11:52:43,627-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 11:52:43,715-INFO-This function deletes data from expenses table for the date : 2026-02-26
+2026-02-26 11:52:43,732-INFO-This function inserts data to expenses table for the date : 2026-02-26
+2026-02-26 11:53:08,080-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 11:53:08,143-INFO-This function deletes data from expenses table for the date : 2026-02-26
+2026-02-26 11:53:39,881-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 11:53:39,929-INFO-This function deletes data from expenses table for the date : 2026-02-26
+2026-02-26 11:53:51,343-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 11:53:51,387-INFO-This function deletes data from expenses table for the date : 2026-02-26
+2026-02-26 11:53:51,401-INFO-This function inserts data to expenses table for the date : 2026-02-26
+2026-02-26 11:55:44,849-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 11:55:44,913-INFO-This function deletes data from expenses table for the date : 2026-02-26
+2026-02-26 11:57:23,070-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 11:57:23,124-INFO-This function deletes data from expenses table for the date : 2026-02-26
+2026-02-26 11:57:23,138-INFO-This function inserts data to expenses table for the date : 2026-02-26
+2026-02-26 11:58:01,485-INFO-This function fetch expenses for the date : 2026-02-25
+2026-02-26 11:58:20,456-INFO-This function fetch expenses for the date : 2026-02-25
+2026-02-26 11:58:20,507-INFO-This function deletes data from expenses table for the date : 2026-02-25
+2026-02-26 11:58:20,522-INFO-This function inserts data to expenses table for the date : 2026-02-25
+2026-02-26 11:58:34,030-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 11:58:39,547-INFO-This function fetch expenses for the date : 2026-02-25
+2026-02-26 13:02:15,552-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 13:02:42,718-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:04:05,388-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:04:49,732-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:05:08,017-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:06:37,727-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:12:22,511-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:13:16,796-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:15:24,875-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:17:10,030-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:17:23,367-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:18:23,566-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:18:44,393-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:19:27,698-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:20:35,357-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:27:38,951-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:28:33,327-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:28:39,459-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:31:17,653-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:33:06,487-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:33:36,888-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 13:33:58,325-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 13:34:23,773-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 13:34:32,927-INFO-This function fetch expenses for the date : 2024-08-03
+2026-02-26 13:35:17,733-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 13:35:25,311-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 13:35:35,423-INFO-This function fetch expenses for the date : 2026-02-25
+2026-02-26 13:35:44,569-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 13:36:04,749-INFO-This function fetch expenses for the date : 2026-02-25
+2026-02-26 13:36:11,945-INFO-This function fetch expenses for the date : 2026-02-04
+2026-02-26 13:36:18,349-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 13:36:23,677-INFO-This function fetch expenses for the date : 2026-02-05
+2026-02-26 13:36:34,148-INFO-This function fetch expenses for the date : 2026-02-05
+2026-02-26 13:36:41,601-INFO-This function fetch expenses for the date : 2026-02-25
+2026-02-26 13:36:46,133-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:37:06,990-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:38:18,863-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:41:33,513-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:43:23,941-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:44:53,959-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:46:30,381-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:47:22,480-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:47:45,250-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:50:02,734-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:50:08,885-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:52:48,928-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:52:54,549-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:53:56,537-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:54:00,184-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:54:02,300-INFO-This function deletes data from expenses table for the date : 2026-02-24
+2026-02-26 13:54:02,325-INFO-This function inserts data to expenses table for the date : 2026-02-24
+2026-02-26 13:54:02,370-INFO-This function inserts data to expenses table for the date : 2026-02-24
+2026-02-26 13:54:43,071-INFO-This function fetch expenses for the date : 2026-02-24
+2026-02-26 13:54:45,174-INFO-This function deletes data from expenses table for the date : 2026-02-24
+2026-02-26 13:54:45,216-INFO-This function inserts data to expenses table for the date : 2026-02-24
+2026-02-26 13:54:45,240-INFO-This function inserts data to expenses table for the date : 2026-02-24
+2026-02-26 13:54:45,263-INFO-This function inserts data to expenses table for the date : 2026-02-24
+2026-02-26 14:48:22,778-INFO-This function fetch expenses for the date : 2026-02-25
+2026-02-26 14:48:35,993-INFO-This function fetch expenses for the date : 2026-02-22
+2026-02-26 14:48:43,442-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 14:48:49,115-INFO-This function fetch expenses for the date : 2026-02-22
+2026-02-26 14:49:10,938-INFO-This function fetch expenses for the date : 2026-02-21
+2026-02-26 14:49:27,183-INFO-This function fetch expenses for the date : 2026-02-20
+2026-02-26 14:49:33,166-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 14:49:39,921-INFO-This function fetch expenses for the date : 2026-02-20
+2026-02-26 14:49:57,875-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 14:50:03,575-INFO-This function fetch expenses for the date : 2026-02-13
+2026-02-26 14:50:23,826-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 14:50:30,380-INFO-This function fetch expenses for the date : 2026-02-05
+2026-02-26 14:51:50,024-INFO-This function fetch expenses for the date : 2026-02-05
+2026-02-26 14:51:52,151-INFO-This function deletes data from expenses table for the date : 2026-02-05
+2026-02-26 14:51:52,185-INFO-This function inserts data to expenses table for the date : 2026-02-05
+2026-02-26 14:51:52,252-INFO-This function inserts data to expenses table for the date : 2026-02-05
+2026-02-26 14:51:52,276-INFO-This function inserts data to expenses table for the date : 2026-02-05
+2026-02-26 14:53:01,963-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 14:53:09,162-INFO-This function fetch expenses for the date : 2024-08-02
+2026-02-26 14:53:15,052-INFO-This function fetch expenses for the date : 2026-02-26
+2026-02-26 14:53:26,008-INFO-This function fetch expenses for the date : 2026-02-18
+2026-02-26 14:53:36,657-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 14:54:00,428-INFO-This function fetch expenses for the date : 2024-08-01
+2026-02-26 15:03:50,072-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 06:59:14,709-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 07:11:36,322-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 07:11:42,267-INFO-This function fetch expenses for the date : 2026-03-03
+2026-03-02 07:11:52,647-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:21:17,795-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:21:57,453-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:22:47,984-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:24:12,789-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:26:49,022-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:26:56,566-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:28:28,210-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:28:40,595-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:36:21,218-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:38:07,301-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 07:39:28,392-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 07:39:32,531-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:41:16,571-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:41:20,653-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 07:42:13,731-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 07:43:11,184-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 07:43:16,030-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:46:35,329-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:46:39,207-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 07:47:13,387-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 07:47:18,142-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:48:58,027-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:49:05,366-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 07:49:17,205-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:49:21,715-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 07:50:28,898-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 07:50:50,171-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 07:51:00,431-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:51:34,358-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:53:12,232-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 07:59:32,856-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 08:00:42,590-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 08:00:53,637-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:01:10,381-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:01:14,014-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:02:11,120-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:02:11,187-INFO-This function deletes data from expenses table for the date : 2024-08-10
+2026-03-02 08:03:12,150-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:03:12,207-INFO-This function deletes data from expenses table for the date : 2024-08-10
+2026-03-02 08:04:32,859-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:04:37,038-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:04:37,085-INFO-This function deletes data from expenses table for the date : 2024-08-10
+2026-03-02 08:04:44,409-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:04:44,459-INFO-This function deletes data from expenses table for the date : 2024-08-10
+2026-03-02 08:04:46,986-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:04:47,029-INFO-This function deletes data from expenses table for the date : 2024-08-10
+2026-03-02 08:05:48,316-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:05:48,375-INFO-This function deletes data from expenses table for the date : 2024-08-10
+2026-03-02 08:05:51,015-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:05:51,060-INFO-This function deletes data from expenses table for the date : 2024-08-10
+2026-03-02 08:05:51,312-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:05:51,364-INFO-This function deletes data from expenses table for the date : 2024-08-10
+2026-03-02 08:10:33,068-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:10:38,349-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:10:38,420-INFO-This function deletes data from expenses table for the date : 2024-08-10
+2026-03-02 08:10:41,153-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:10:41,209-INFO-This function deletes data from expenses table for the date : 2024-08-10
+2026-03-02 08:11:13,690-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:11:16,312-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:11:16,391-INFO-This function deletes data from expenses table for the date : 2024-08-10
+2026-03-02 08:11:16,414-INFO-This function inserts data to expenses table for the date : 2024-08-10
+2026-03-02 08:11:33,747-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 08:11:45,328-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 08:11:52,964-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 08:12:57,916-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 08:13:06,847-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 08:13:41,867-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 08:16:27,694-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 08:16:31,190-INFO-This function fetch expenses for the date : 2026-03-03
+2026-03-02 08:16:36,240-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 08:16:41,803-INFO-This function fetch expenses for the date : 2026-03-01
+2026-03-02 08:16:44,653-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 08:16:57,854-INFO-This function fetch expenses for the date : 2026-03-03
+2026-03-02 08:17:07,689-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 08:17:11,463-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 08:17:19,471-INFO-This function fetch expenses for the date : 2024-08-10
+2026-03-02 08:17:26,077-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 08:17:34,481-INFO-This function fetch expenses for the date : 2026-02-25
+2026-03-02 12:59:57,892-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-02 13:04:40,951-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-02 13:04:51,864-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-02 13:07:43,972-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-02 13:27:45,359-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-02 13:38:19,820-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-02 13:39:22,846-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-02 13:40:07,788-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-02 13:50:10,048-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-02 13:53:06,438-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 13:53:38,484-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 13:53:53,815-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 13:54:01,666-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 13:55:39,667-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 13:56:56,298-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 13:57:44,673-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 14:00:31,933-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 14:00:37,124-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 14:01:59,714-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 14:02:22,505-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 14:02:30,602-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 14:02:47,696-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 14:02:59,466-INFO-This function fetch expenses for the date : 2026-03-01
+2026-03-02 14:03:16,390-INFO-This function fetch expenses for the date : 2026-03-01
+2026-03-02 14:03:29,556-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 14:03:54,331-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 14:04:34,665-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 14:04:39,749-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 14:05:17,712-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 14:05:21,277-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 14:14:11,481-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 14:15:09,456-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 14:15:13,237-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 14:15:34,235-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 14:15:39,411-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 14:15:42,817-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 14:17:20,307-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 14:17:23,524-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 14:17:26,354-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 14:18:24,314-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 14:18:39,280-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 14:18:47,656-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 14:18:53,340-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 14:18:56,316-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 14:18:58,791-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 14:19:08,089-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 14:19:20,212-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 14:19:25,128-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 14:19:27,795-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 14:19:38,672-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 14:20:36,107-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 14:23:25,399-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 14:23:30,343-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 14:23:33,717-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 14:23:47,979-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 14:23:48,085-INFO-This function deletes data from expenses table for the date : 2024-08-03
+2026-03-02 14:23:48,182-INFO-This function inserts data to expenses table for the date : 2024-08-03
+2026-03-02 15:39:24,290-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 15:39:45,751-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 15:40:29,973-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 15:40:39,490-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 15:43:32,830-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 15:44:21,183-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 15:44:41,125-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 15:45:00,876-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 15:45:13,227-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 15:45:30,044-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 15:45:48,155-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 15:46:06,144-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 15:46:23,022-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 15:46:27,102-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 15:46:35,244-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 15:46:41,286-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 15:46:46,296-INFO-This function fetch expenses for the date : 2026-03-01
+2026-03-02 15:47:04,683-INFO-This function fetch expenses for the date : 2026-03-01
+2026-03-02 15:47:34,505-INFO-This function fetch expenses for the date : 2026-03-01
+2026-03-02 15:47:47,412-INFO-This function fetch expenses for the date : 2026-03-01
+2026-03-02 15:47:59,726-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 15:48:29,214-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 15:48:37,233-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 15:48:47,598-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 16:05:14,341-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 16:05:35,161-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 16:05:42,207-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 16:05:57,089-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 16:06:02,804-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 16:06:56,357-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 16:07:09,885-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 16:07:26,192-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 16:07:40,244-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 16:07:47,190-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 16:07:58,579-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 16:08:32,093-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 16:08:56,976-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 16:09:00,266-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 16:09:03,931-INFO-This function fetch expenses for the date : 2026-03-02
+2026-03-02 16:09:19,636-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 16:09:22,870-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 16:14:26,829-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 16:14:42,459-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 16:14:49,979-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-02 16:14:54,000-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-02 16:15:20,741-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-02 16:15:24,490-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 16:15:48,868-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-02 16:15:48,970-INFO-This function deletes data from expenses table for the date : 2024-08-02
+2026-03-02 16:15:49,065-INFO-This function inserts data to expenses table for the date : 2024-08-02
+2026-03-02 16:15:49,134-INFO-This function inserts data to expenses table for the date : 2024-08-02
+2026-03-02 16:15:49,158-INFO-This function inserts data to expenses table for the date : 2024-08-02
+2026-03-03 07:05:23,786-INFO-This function fetch expenses for the date : 2026-03-03
+2026-03-03 07:05:27,365-INFO-This function fetch expenses for the date : 2026-03-01
+2026-03-03 07:05:38,878-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 07:05:44,677-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-03 07:05:48,639-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-03 07:05:52,958-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:06:17,527-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:06:17,568-INFO-This function deletes data from expenses table for the date : 2024-08-04
+2026-03-03 07:06:17,619-INFO-This function inserts data to expenses table for the date : 2024-08-04
+2026-03-03 07:06:17,638-INFO-This function inserts data to expenses table for the date : 2024-08-04
+2026-03-03 07:06:17,649-INFO-This function inserts data to expenses table for the date : 2024-08-04
+2026-03-03 07:06:17,661-INFO-This function inserts data to expenses table for the date : 2024-08-04
+2026-03-03 07:07:47,108-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-03 07:08:04,026-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:10:40,039-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:10:51,005-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:10:52,824-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:14:46,246-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:15:17,726-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:15:50,001-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:16:43,484-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:17:18,600-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 07:25:45,854-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 07:25:49,326-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 07:25:49,388-INFO-This function fetches data from expenses table for the date  between: 2026-03-03 and 2026-03-03
+2026-03-03 07:25:52,196-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 07:25:52,231-INFO-This function fetches data from expenses table for the date  between: 2026-03-03 and 2026-03-03
+2026-03-03 07:26:09,687-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 07:26:14,608-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 07:26:14,648-INFO-This function fetches data from expenses table for the date  between: 2026-03-03 and 2026-03-03
+2026-03-03 07:26:31,866-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 07:26:40,677-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 07:26:42,520-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 07:26:42,551-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-03 07:37:25,021-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-03 07:37:32,337-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:37:40,559-INFO-This function fetch expenses for the date : 2024-08-05
+2026-03-03 07:37:48,861-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:38:16,842-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:38:16,887-INFO-This function deletes data from expenses table for the date : 2024-08-04
+2026-03-03 07:38:16,966-INFO-This function inserts data to expenses table for the date : 2024-08-04
+2026-03-03 07:38:16,991-INFO-This function inserts data to expenses table for the date : 2024-08-04
+2026-03-03 07:38:17,041-INFO-This function inserts data to expenses table for the date : 2024-08-04
+2026-03-03 07:38:17,088-INFO-This function inserts data to expenses table for the date : 2024-08-04
+2026-03-03 07:38:17,141-INFO-This function inserts data to expenses table for the date : 2024-08-04
+2026-03-03 07:38:32,069-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:38:32,104-INFO-This function deletes data from expenses table for the date : 2024-08-04
+2026-03-03 07:38:32,123-INFO-This function inserts data to expenses table for the date : 2024-08-04
+2026-03-03 07:38:32,137-INFO-This function inserts data to expenses table for the date : 2024-08-04
+2026-03-03 07:38:32,149-INFO-This function inserts data to expenses table for the date : 2024-08-04
+2026-03-03 07:38:32,161-INFO-This function inserts data to expenses table for the date : 2024-08-04
+2026-03-03 07:38:32,176-INFO-This function inserts data to expenses table for the date : 2024-08-04
+2026-03-03 07:39:36,930-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:39:36,968-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-03 07:43:46,875-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:43:49,438-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:43:49,480-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-03 07:51:39,087-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:51:41,368-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:51:41,419-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-03 07:52:48,896-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:53:01,522-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:53:01,564-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-03 07:53:20,287-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:53:21,259-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:53:21,291-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-03 07:53:32,183-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:53:34,045-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:53:34,077-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-03 07:54:16,800-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:54:16,843-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-05
+2026-03-03 07:54:17,944-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:54:20,487-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:54:20,517-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-06
+2026-03-03 07:56:17,143-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:56:19,667-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 07:56:19,717-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-06
+2026-03-03 08:00:25,323-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 08:00:27,830-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 08:00:27,876-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-06
+2026-03-03 08:02:03,131-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 08:02:05,741-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 08:02:05,805-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-06
+2026-03-03 08:06:12,741-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 08:06:15,184-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 08:06:15,327-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-06
+2026-03-03 08:06:55,146-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 08:06:56,072-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 08:06:56,103-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-06
+2026-03-03 08:08:28,237-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 08:08:30,633-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 08:08:30,674-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-06
+2026-03-03 08:08:46,147-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 08:08:47,476-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 08:08:47,516-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-06
+2026-03-03 14:33:42,043-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-02
+2026-03-03 14:37:06,263-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-02
+2026-03-03 14:37:09,491-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-02
+2026-03-03 14:37:45,028-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-02
+2026-03-03 14:38:07,462-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 14:38:11,362-INFO-This function fetch expenses for the date : 2024-08-04
+2026-03-03 14:38:11,420-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-02
+2026-03-03 14:38:19,239-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:38:26,219-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-03 14:38:32,274-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-03 14:38:32,331-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-02
+2026-03-03 14:38:48,916-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-03 14:38:50,736-INFO-This function fetch expenses for the date : 2024-08-02
+2026-03-03 14:38:50,803-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-01
+2026-03-03 14:39:05,066-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:39:35,192-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:39:35,270-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-01
+2026-03-03 14:40:05,484-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-01
+2026-03-03 14:42:49,507-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:42:54,154-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:54:19,729-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:54:20,296-INFO-This function fetches data from expenses table for the date  between: 2026-03-03 and 2026-03-03
+2026-03-03 14:54:36,399-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:54:36,465-INFO-This function fetches data from expenses table for the date  between: 2026-03-01 and 2026-03-03
+2026-03-03 14:54:38,888-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:54:38,949-INFO-This function fetches data from expenses table for the date  between: 2026-03-01 and 2026-03-03
+2026-03-03 14:54:39,673-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:54:39,732-INFO-This function fetches data from expenses table for the date  between: 2026-03-01 and 2026-03-03
+2026-03-03 14:55:56,816-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:56:01,211-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:56:01,838-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:56:01,907-INFO-This function fetches data from expenses table for the date  between: 2026-03-01 and 2026-03-03
+2026-03-03 14:56:21,802-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:56:22,743-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:56:22,807-INFO-This function fetches data from expenses table for the date  between: 2026-03-01 and 2024-08-03
+2026-03-03 14:56:33,566-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:56:34,910-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:56:34,971-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-03 14:58:24,445-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:58:26,796-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 14:58:26,867-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-03 15:29:28,651-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:29:29,220-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-03 15:29:49,048-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:29:49,114-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-03 15:30:05,701-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:30:05,795-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-03 15:30:09,361-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:30:09,413-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-03 15:30:11,317-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:30:11,378-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-01
+2026-03-03 15:30:18,369-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:30:18,426-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-03 15:30:24,691-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:30:24,754-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-03 15:31:42,906-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:31:47,114-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:31:47,928-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:31:47,989-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-01
+2026-03-03 15:31:55,047-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:31:56,487-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:31:56,550-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-03 15:32:41,462-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:32:43,253-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:32:43,285-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-03 15:33:39,751-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:33:41,390-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:33:41,426-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-03 15:33:56,006-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:33:57,154-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-03 15:33:57,186-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-03 15:34:15,678-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-03 15:34:29,577-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-03 15:34:29,620-INFO-This function deletes data from expenses table for the date : 2024-08-03
+2026-03-03 15:34:29,697-INFO-This function inserts data to expenses table for the date : 2024-08-03
+2026-03-03 15:34:29,722-INFO-This function inserts data to expenses table for the date : 2024-08-03
+2026-03-04 07:37:21,961-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 07:41:00,537-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 07:41:16,734-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 11:58:55,829-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 11:59:13,601-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:02:24,014-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:07:05,846-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:09:42,697-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:09:50,454-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:18:49,218-INFO-This function fetch expenses for the date : 2026-03-04
+2026-03-04 12:19:21,542-INFO-This function fetch expenses for the date : 2024-08-01
+2026-03-04 12:19:25,742-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:19:38,334-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:19:46,667-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:19:47,809-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:19:47,915-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-04 12:22:27,104-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:24:13,075-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:25:18,762-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:25:35,361-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:27:13,430-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:28:13,994-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:28:14,167-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:28:14,231-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:28:34,058-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:28:41,405-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:29:55,872-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:30:00,944-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:30:00,988-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:30:06,002-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:30:06,037-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:30:10,582-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:30:10,705-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:30:10,735-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:30:15,458-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:30:41,388-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:30:45,586-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:30:59,190-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:30:59,225-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:35:20,080-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:35:25,976-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:35:35,805-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:35:36,629-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:35:36,789-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:37:26,050-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:37:27,379-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:37:27,422-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:39:05,678-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:39:07,413-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:39:07,455-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:39:29,482-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:39:30,517-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:39:30,555-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:41:45,791-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:41:46,934-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:41:51,777-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:41:51,910-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:41:51,946-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:42:15,886-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:42:17,603-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:42:17,636-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:42:52,141-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:42:53,227-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:42:53,258-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:44:44,766-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:44:45,004-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:44:53,267-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:44:53,302-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:45:02,273-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:45:03,515-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:45:03,544-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:45:25,662-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:45:26,912-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:45:26,946-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:45:39,205-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:45:40,405-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:45:40,434-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:45:49,864-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:45:51,169-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:45:51,200-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:46:14,945-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:46:15,872-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:46:15,902-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:46:19,426-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:46:19,459-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:46:25,648-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:46:26,633-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:46:26,662-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:52:05,133-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:52:07,461-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:52:07,507-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:52:45,748-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:52:47,138-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:52:47,173-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:53:04,868-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:53:06,465-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:53:06,502-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:53:14,716-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:53:15,890-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:53:15,924-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:53:38,178-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:53:38,212-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-04 12:54:06,039-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:54:07,847-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:54:07,883-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:55:54,826-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:56:07,462-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:56:07,584-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:56:07,613-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:56:11,234-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:56:12,438-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:56:13,218-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:56:14,373-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:56:14,593-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:56:17,357-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:56:17,389-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:56:23,036-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:56:24,295-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:56:24,498-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:56:25,378-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:56:25,430-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 12:56:30,626-INFO-This function fetch expenses for the date : 2024-08-03
+2026-03-04 12:56:30,653-INFO-This function fetches data from expenses table for the date  between: 2024-08-01 and 2024-08-03
+2026-03-04 12:57:17,508-INFO-This function fetch expenses for the date : 2026-03-04
+2026-03-04 12:57:54,942-INFO-This function fetch expenses for the date : 2026-03-04
+2026-03-04 12:58:15,875-INFO-This function fetch expenses for the date : 2026-03-04
+2026-03-04 12:58:15,931-INFO-This function deletes data from expenses table for the date : 2026-03-04
+2026-03-04 12:58:15,961-INFO-This function inserts data to expenses table for the date : 2026-03-04
+2026-03-04 12:58:55,293-INFO-This function fetch expenses for the date : 2026-04-10
+2026-03-04 12:59:07,697-INFO-This function fetch expenses for the date : 2026-04-10
+2026-03-04 12:59:07,728-INFO-This function deletes data from expenses table for the date : 2026-04-10
+2026-03-04 12:59:07,738-INFO-This function inserts data to expenses table for the date : 2026-04-10
+2026-03-04 12:59:16,135-INFO-This function fetch expenses for the date : 2026-06-11
+2026-03-04 12:59:26,649-INFO-This function fetch expenses for the date : 2026-06-11
+2026-03-04 12:59:26,675-INFO-This function deletes data from expenses table for the date : 2026-06-11
+2026-03-04 12:59:26,681-INFO-This function inserts data to expenses table for the date : 2026-06-11
+2026-03-04 12:59:32,719-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 12:59:55,355-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 12:59:55,388-INFO-This function deletes data from expenses table for the date : 2026-09-18
+2026-03-04 12:59:55,398-INFO-This function inserts data to expenses table for the date : 2026-09-18
+2026-03-04 13:00:03,752-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:00:03,847-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:00:03,877-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 13:02:10,358-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:02:12,181-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:02:12,218-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 13:09:13,060-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:09:15,956-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:09:15,994-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 13:11:03,109-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:11:05,859-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:11:05,898-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 13:15:01,667-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:15:04,155-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:15:04,203-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 13:15:19,415-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:15:19,583-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:15:19,634-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 13:18:52,665-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:18:54,978-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:18:55,016-INFO-This function fetches data from expense table by the year - month wise breakdown
+2026-03-04 13:19:18,753-INFO-This function fetch expenses for the date : 2026-09-18
+2026-03-04 13:19:18,798-INFO-This function fetches data from expenses table for the date  between: 2026-03-04 and 2026-03-04
