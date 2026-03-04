@@ -1,0 +1,11 @@
+cd C:/Users/kiran/PyCharmMiscProject/Learn_Python/expense_tracking_project/Frontend
+command to run the streamlit (PyCharm terminal) => streamlit run .\app.py
+
+cd C:/Users/kiran/PyCharmMiscProject/Learn_Python/expense_tracking_project/backend
+command to run the Fast API (git bash) => uvicorn server:app --reload
+
+cd C:/Users/kiran/PyCharmMiscProject/Learn_Python/expense_tracking_project
+to know the versions of the modules installed => pip freeze
+
+to install all the modules in single shot
+pip install -r .\requirements.txt  
