@@ -16,7 +16,7 @@ This project is an expense management system that consists of a Streamlit fronte
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/expense-management-system.git
+   git clone https://github.com/kiranbg14/expense-management-system.git
    cd expense-management-system
    ```
 1. **Install dependencies:**:   
@@ -30,4 +30,5 @@ This project is an expense management system that consists of a Streamlit fronte
 1. **Run the Streamlit app:**:   
    ```commandline
     streamlit run frontend/app.py
+
    ```
